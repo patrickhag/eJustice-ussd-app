@@ -29,7 +29,7 @@ This is a USSD (Unstructured Supplementary Service Data) application built using
    ```
 3. Installing ngrok local server:
 
-   [https://chat.openai.com/share/b194412b-d298-42c3-994d-4fcb5f5850d2]
+  (ChatGPT REFERENCE)[https://chat.openai.com/share/b194412b-d298-42c3-994d-4fcb5f5850d2]
 
 4. Expose the local server using ngrok:
 
